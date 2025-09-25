@@ -1,0 +1,6 @@
+discord.py==2.3.2
+Flask==3.0.3
+requests==2.32.3
+Pillow==10.4.0
+pytesseract==0.3.10  # For OCR (requires Tesseract installed on host)
+openai==1.40.0       # For ChatGPT analysis (OpenAI API)
